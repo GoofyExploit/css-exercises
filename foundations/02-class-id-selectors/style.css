@@ -1,0 +1,15 @@
+.odd{
+    background-color: pink;
+    font-size: 20px;
+    font-weight: bold;
+}
+#one{
+    color: blue;
+    font-size: 32px;
+    font-weight: bold;
+}
+#two{
+    background-color: lightgreen;
+    font-size: 20px;
+    font-weight: bolder;
+}
